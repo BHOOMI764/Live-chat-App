@@ -1,2 +1,2 @@
 # Live-chat-app
-a node+web-socket project in subject fsd
+a node+web-socket project
