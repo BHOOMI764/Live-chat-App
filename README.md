@@ -1,4 +1,6 @@
 # Live Chat App
+<img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/57f889a4-39f7-4db2-8079-3eb6c8a5eec3" />
+
 
 A real-time chat application built with Node.js, Express, and Socket.io that allows multiple users to chat simultaneously.
 
